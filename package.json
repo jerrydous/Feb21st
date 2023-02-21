@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jerrydous/Feb21st/issues"
   },
-  "homepage": "https://github.com/jerrydous/Feb21st#readme"
+  "homepage": "https://github.com/jerrydous/Feb21st#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
